@@ -1,0 +1,13 @@
+.hlo {
+    width:100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    gap: 30px;
+    margin-top: 30px;
+}
+.container{
+    position: relative;
+    padding-top: 50px;
+}
